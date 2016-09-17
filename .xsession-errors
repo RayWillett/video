@@ -1,0 +1,47 @@
+Xsession: X session started for pi at Sat Sep 17 13:13:42 UTC 2016
+localuser:pi being added to access control list
+/etc/X11/xinit/xinitrc: 26: /home/pi/.profile: source: not found
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (lxpanel:25004): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+** (pcmanfm:25007): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+(lxpanel:25004): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:25004): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:25004): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:25004): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:25004): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxpanel:25004): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(pcmanfm:25007): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:25007): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:25007): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:25007): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:25007): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+** (lxpanel:25004): WARNING **: launchbar: desktop entry does not exist
+
+
+** (lxpanel:25004): WARNING **: launchtaskbar: can't init button
+
+
+** (lxpanel:25004): WARNING **: launchbar: desktop entry does not exist
+
+
+** (lxpanel:25004): WARNING **: launchtaskbar: can't init button
+
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 1855 requests (1852 known processed) with 0 events remaining.
